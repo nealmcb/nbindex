@@ -1,4 +1,4 @@
 nbindex
 =======
 
-Indexing IPython Notebooks
+Indexing IPython Notebooks via [elasticsearch](https://github.com/dockerfile/elasticsearch).
